@@ -14,17 +14,17 @@ app.use(methodOverride('_method'));
 let posts =[
     {
         id : uuidv4(),
-        username : "apnacollege",
+        username : "SarveshShinde",
         content : "I love coding"
     },
       {
         id : uuidv4(),
-        username : "ShradhaKhapra",
+        username : "SujalLubal",
         content : "Hard is important to achieve success"
     },
       {
         id : uuidv4(),
-        username : "rahulkumar",
+        username : "DishaJadhav",
         content : "I got selected for my first internship!"
     },
     
